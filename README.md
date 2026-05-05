@@ -2,7 +2,7 @@
 
 An interactive data analysis dashboard built with Python and Streamlit that explores 25 years of US aviation incident data from the NTSB database. Built by an FAA certified Airframe Mechanic with firsthand knowledge of aviation safety, maintenance, and regulatory compliance.
 
-**[Live Demo](#)** | **[NTSB Data Source](https://www.ntsb.gov/Pages/AviationQueryv2.aspx)**
+**[Live Demo](https://faa-aviation-dashboard-ceua43sscr4dsjxyvisprs.streamlit.app/)** | **[NTSB Data Source](https://www.ntsb.gov/Pages/AviationQueryv2.aspx)**
 
 ---
 
